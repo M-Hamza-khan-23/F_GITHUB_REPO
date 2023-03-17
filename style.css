@@ -1,0 +1,11 @@
+div { text-align: center;
+}
+section.vacancies{
+    background-color: aliceblue; text-align: left;
+}
+section.form {
+    text-align: left; background-color: gainsboro;
+}
+footer{
+    text-align: center;
+}
